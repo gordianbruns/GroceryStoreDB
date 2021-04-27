@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Apr 26 19:54:39 EDT 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0179-109b-3c6a-000007561200 
+on database directory C:\Users\Gordian Bruns\eclipse-workspace\GroceryStoreDB-v1\db\grocerystoredb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@5451c3a8 
+Loaded from file:/C:/Users/Gordian%20Bruns/Documents/College/Spring%202021%20Semester/Databases/projects/implementation/UniversityDB-v4/UniversityDB-v4/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.2+12-46
+user.dir=C:\Users\Gordian Bruns\eclipse-workspace\GroceryStoreDB-v1
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
